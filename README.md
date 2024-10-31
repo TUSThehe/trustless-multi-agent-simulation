@@ -1,6 +1,6 @@
 ### Trustless Multi-Agent Simulation
 
-This project demonstrates a simplified version of a **Trustless Multi-Agent Framework**, a decentralized alternative to Trusted Execution Environments (TEEs). It showcases key concepts in creating autonomous, distributed agents that interact without centralized control, using simulated blockchain records and a DAO (Decentralized Autonomous Organization) for governance.
+This project demonstrates our version of a **Trustless Multi-Agent Framework**, a decentralized alternative to Trusted Execution Environments (TEEs). It showcases key concepts in creating autonomous, distributed agents that interact without centralized control, using simulated blockchain records and a DAO (Decentralized Autonomous Organization) for governance.
 
 #### Key Features:
 - **Distributed Key Management**: Each agent generates and manages its own cryptographic keys for secure interactions.
@@ -12,7 +12,7 @@ This project demonstrates a simplified version of a **Trustless Multi-Agent Fram
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/greaterdan/trustless-multi-agent-simulation.git
+   git clone https://github.com/TUSThehe/trustless-multi-agent-simulation.git
    cd trustless-multi-agent-simulation
    ```
 
