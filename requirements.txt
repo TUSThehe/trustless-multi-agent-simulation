@@ -1,0 +1,5 @@
+### 2. requirements.txt
+
+Since we’re not using any external libraries in this version, this file can remain empty:
+
+```plaintext
