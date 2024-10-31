@@ -1,7 +1,3 @@
-Here’s an updated description with instructions on how to start the project:
-
----
-
 ### Trustless Multi-Agent Simulation
 
 This project demonstrates a simplified version of a **Trustless Multi-Agent Framework**, a decentralized alternative to Trusted Execution Environments (TEEs). It showcases key concepts in creating autonomous, distributed agents that interact without centralized control, using simulated blockchain records and a DAO (Decentralized Autonomous Organization) for governance.
